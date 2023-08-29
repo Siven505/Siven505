@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Siven505
 - 👀 I’m interested in video games, web development, and being with family and friends!
-- 🌱 I’m currently learning html, css, and java. Soon I will tackle Ruby as well!
 - 📫 How to reach me, my email is alexanderjonmiller@gmail.com.
 
 <!---
